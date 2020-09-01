@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HandWashLocation</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibGl6emFyYWdhIiwiYSI6ImNrMmRmdGdjajAyczczY2xrdnh4NmtuamEifQ.qTuyj40o4v74VhT9BsByCw</string>
+    <string name="n_a">N/A</string>
+    <string name="add_images_info_text">A minimum of 02 images are required. Hold down an image to delete it.</string>
+    <string name="add_image">add image</string>
+    <string name="describe_position">Describe position</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="position_image_content">position image content</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "880975348330",
+    "firebase_url": "https://handwashlocation.firebaseio.com",
+    "project_id": "handwashlocation",
+    "storage_bucket": "handwashlocation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880975348330:android:58e15b1f6d33714a51c013",
+        "android_client_info": {
+          "package_name": "com.annda.handwashlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880975348330-0d721uqq5g90urdlcmfc0mesa71oukc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQMSfxXTcCASu7hNLG-R4J4biENCM03Hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880975348330-0d721uqq5g90urdlcmfc0mesa71oukc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
